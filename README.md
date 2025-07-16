@@ -4,7 +4,7 @@
 🏫 **Southeastern University of Sri Lanka** – Faculty of Applied Sciences  
 📍 Mannar, Sri Lanka  
 📧 Email: gsumana419@gmail.com
-🌐 GitHub: [github.com/your-username](https://github.com/Sugi0401)
+🌐 GitHub: [github.com/Sugi0401](https://github.com/Sugi0401)
 
 ---
 
