@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👩‍💻 Sugirthana Gnanasekaram
 
-<!--
-**Sugi0401/sugi0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Undergraduate Student – BSc in Applied Sciences**  
+🏫 **Southeastern University of Sri Lanka** – Faculty of Applied Sciences  
+📍 Mannar, Sri Lanka  
+📧 Email: gsumana419@gmail.com
+🌐 GitHub: [github.com/your-username](https://github.com/Sugi0401)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- 🌐 Web Development: HTML, CSS, JavaScript
+- 🖥️ Programming: Java (basic), C (basic)
+- 🧪 Scientific Computing: Basics of data analysis
+- 🗃️ Software: XAMPP, Minitab, MS Office
+---
+
+## 📂 Projects & Activities
+
+### 🌱 Clean My University  
+A website created as part of my university project to encourage cleanliness on campus.  
+Built using **HTML**, **CSS**, **JavaScript**, and hosted using **XAMPP**.
+
+### 📊 One-Sample Hypothesis Testing – Minitab  
+Conducted statistical testing on sample data to check if the population mean differs significantly from a set value.  
+Tools used: **Minitab**, knowledge of **basic statistics**.
+
+### 📸 Panasonic HC-V500 Project  
+Captured HD video content for academic and personal use. Learned to record better sound and video quality using camcorder settings.
+
+---
+
+## 📚 Education
+
+**BSc in Applied Sciences**  
+*Faculty of Applied Sciences, Southeastern University of Sri Lanka*  
+📍 Oluvil, Ampara  
+🗓️ 2024 – Present
+
+---
+
+## 💬 Languages
+- Tamil – Native
+- English – Proficient
+
+---
+
+## 📫 Contact
+- 📧 Email: gsumana419@gmail.com
+- 📍 Hometown: Mannar, Sri Lanka  
+- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) *(if available)*
+
+
